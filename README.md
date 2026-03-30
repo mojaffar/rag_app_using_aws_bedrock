@@ -89,3 +89,5 @@ Ask a question in the input box
 Select the model
 
 Click "Get Answer"
+
+![alt text](<Screenshot from 2026-03-30 07-48-48.png>)
